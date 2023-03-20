@@ -1,4 +1,0 @@
- I enrolled Ironhacks Data Analytics bootcamp because need a carreer change >> max.txt
-
-max.txt 
-echo  I enrolled Ironhacks Data Analytics bootcamp because need a carreer change
